@@ -1,4 +1,4 @@
-package resol.apellidoN.ejercicio1;
+package resol.NizS.ejercicio1;
 
 public class Prenda {
 

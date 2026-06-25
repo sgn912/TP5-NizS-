@@ -27,7 +27,7 @@ public class Principal {
                 break;
 
             default:
-                System.out.println("Opción inválida");
+                System.out.println("Opcion erronea");
         }
 
         sc.close();

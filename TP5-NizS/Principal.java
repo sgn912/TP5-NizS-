@@ -1,9 +1,9 @@
-package resol.apellidoN;
+package resol.NizS;
 
 import java.util.Scanner;
 
-import resol.apellidoN.ejercicio1.Ejercicio1;
-import resol.apellidoN.ejercicio2.Ejercicio2;
+import resol.NizS.ejercicio1.Ejercicio1;
+import resol.NizS.ejercicio2.Ejercicio2;
 
 public class Principal {
 
